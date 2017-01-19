@@ -1,7 +1,6 @@
-
 ## Usage
 ```
-docker run --rm -p 59125:59125 sliversniper/marytts@latest
+docker run -d -p 59125:59125 vano468/marytts
 ```
 
-visit ``http://localhost:59125`` to access the marytts interface
+Visit ``http://localhost:59125`` to access the marytts interface.
